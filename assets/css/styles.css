@@ -15,7 +15,7 @@ body {
 }
 
 header{
-    background-color: rgb(65, 194, 194);
+    background-color: antiquewhite;
     width: 100%;
     z-index: 99;
     position: fixed;
@@ -43,18 +43,25 @@ h1{
 }
 
 main {
-    background-color:rgb(118, 215, 215);
     margin-top: 132px;
     flex: 1 0 auto;
 }
 
-#yoga-class{
+.yoga-photos {
     width:370px;
-    height: 250px;
+    height: 230px;
     margin-left: 10px;
     margin-top: 10px;
 }
 
+.main-text {
+    text-align: center;
+}
+
+h2{
+    margin-top: 5px;
+}
+
 footer {
-    background-color: darksalmon;
+    background-color: rgb(194, 237, 235);
 }
