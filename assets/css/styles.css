@@ -87,7 +87,11 @@ td {
     text-align: center;
 }
 
-.sign-up {
+.form {
+    text-align: center;
+}
+
+form{
     border-style: double;
     border-radius: 10px;
     border-color: #3a3a3a;
