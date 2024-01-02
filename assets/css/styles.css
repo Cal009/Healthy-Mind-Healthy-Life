@@ -42,8 +42,16 @@ h1{
         margin-bottom: 10px;
 }
 
+.taskbar-button {
+    border: none;
+    color: black;
+    background-color: white;
+    padding: 16px 28px;
+    border-radius: 200px;
+}
+
 main {
-    margin-top: 132px;
+    margin-top: 157px;
     flex: 1 0 auto;
 }
 
