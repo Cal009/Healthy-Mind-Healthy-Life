@@ -15,7 +15,7 @@ body {
 }
 
 header{
-    background-color:rgb(55, 173, 242);
+    background-color: rgb(65, 194, 194);
     width: 100%;
     z-index: 99;
     position: fixed;
@@ -32,12 +32,14 @@ header a{
 h1{
     text-align: center;
     margin-top: 10px;
+    margin-bottom: 15px;
 }
 
 #taskbar{
-    justify-content: space-around;
-    display:flex;
-    flex-direction:row;
+        justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 10px;
 }
 
 main {
@@ -45,6 +47,14 @@ main {
     margin-top: 132px;
     flex: 1 0 auto;
 }
+
+#yoga-class{
+    width:370px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
 footer {
     background-color: darksalmon;
 }
