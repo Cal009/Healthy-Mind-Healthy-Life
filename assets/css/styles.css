@@ -68,18 +68,29 @@ main {
 }
 #outdoor-yoga {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 h2 {
     margin-top: 5px;
+    margin-bottom: 5px;
     text-align: center;
+    background-color: antiquewhite;
 }
 
 table {
-    border-collapse: collapse;
-    width: 90%;
-    background-color: antiquewhite;
+    justify-content: center;
+    width:100%;
+}
+
+td {
+    text-align: center;
+}
+
+.sign-up {
+    border-style: double;
+    border-radius: 10px;
+    border-color: #3a3a3a;
 }
 
 footer {
