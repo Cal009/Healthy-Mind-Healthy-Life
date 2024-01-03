@@ -8,4 +8,4 @@ I used https://www.glo.com/?adjust_referrer=adjust_reftag%3DcB70IBCrdzCCs&gad_so
 
 I used https://fontawesome.com/ to get icons for social media links in my footer.
 
-Had to change buttons to list due to error on W3C in header
+Had to change buttons to list due to error on W3C in header. Originally had button as a child element of an a href, thena child of a nav element.
