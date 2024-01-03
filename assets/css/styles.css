@@ -125,6 +125,13 @@ td {
     margin-bottom: 50px;
 }
 
-footer {
-    background-color:antiquewhite;
+#contact-us {
+    background-color: antiquewhite;
+}
+
+#contact-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 50px;
 }
