@@ -36,7 +36,7 @@ header a{
 }
 
 h1{
-    font-size: 210%;
+    font-size: 150%;
     text-align: center;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -48,11 +48,12 @@ li {
 }
 
 .taskbar-button {
+    font-size: 70%;
     list-style-type: none;
     border: none;
     color: #3a3a3a;
     background-color: white;
-    padding: 10px 15px;
+    padding: 10px 10px;
     border-radius: 200px;
     margin-left: 4px;
 }
@@ -69,9 +70,8 @@ main {
 }
 
 #yoga-photos {
-    width:370px;
-    height: 230px;
-    margin-left: 10px;
+    width:280px;
+    height: 190px;
     margin-top: 20px;
 }
 
@@ -89,9 +89,8 @@ p {
     margin-top: 20px;
 }
 #outdoor-yoga-image {
-    width: 370px;
-    height: 230px;
-    margin-left: 10px;
+    width: 280px;
+    height: 190px;
     margin-top: 20px;
 }
 
@@ -146,4 +145,13 @@ td {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/* Media queries for tablets and larger 768px and up */
+@media screen and (min-width: 768px){
+    .taskbar-button {
+        justify-content: space-around;
+        font-size: 150%;
+        margin-left: 30px;
+    }
 }
