@@ -50,6 +50,12 @@ h1{
     border-radius: 200px;
 }
 
+.taskbar-button:hover {
+    color: white;
+    background-color: #3a3a3a;
+    cursor: pointer;
+}
+
 main {
     margin-top: 157px;
     flex: 1 0 auto;
