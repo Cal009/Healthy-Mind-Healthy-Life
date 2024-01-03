@@ -129,9 +129,8 @@ td {
     background-color: antiquewhite;
 }
 
-#contact-buttons {
-    display: flex;
-    flex-direction: row;
+li {
+    list-style-type: none;
+    margin-bottom: 30px;
     justify-content: space-around;
-    margin-bottom: 50px;
 }
