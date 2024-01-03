@@ -129,8 +129,10 @@ td {
     background-color: antiquewhite;
 }
 
-li {
+#social-media {
     list-style-type: none;
-    margin-bottom: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+    display: flex;
     justify-content: space-around;
 }
