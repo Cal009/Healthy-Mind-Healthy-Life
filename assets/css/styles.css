@@ -179,9 +179,10 @@ td {
         font-size: 140%;
     }
 
-    #fname, #lname, #email {
+    #fname, #lname, #email, #submit {
             height: 30px;
             font-size: large;
+            margin-top: 8px;
         }
     
     table {
