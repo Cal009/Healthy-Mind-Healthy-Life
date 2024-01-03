@@ -67,13 +67,14 @@
                 Enter your details below and we will contact you to arrange your first
                 class.
             </p>
-            <form id="form-inputs">
+            <!-- Form with fake action for demonstration purposes -->
+            <form action="action_page.php" method="post" id="form-inputs">
                 <label for="fname">First Name:</label><br />
-                <input type="text" id="fname" name="fname" placeholder="Enter here" /><br />
+                <input type="text" id="fname" name="fname" placeholder="Enter here" required/><br />
                 <label for="lname">Last Name:</label><br />
-                <input type="text" id="lname" name="lname" placeholder="Enter here" /><br />
+                <input type="text" id="lname" name="lname" placeholder="Enter here" required/><br />
                 <label for="email">Email:</label><br />
-                <input type="text" name="email" id="email" placeholder="Enter here" /><br />
+                <input type="email" name="email" id="email" placeholder="Enter here" /><br required/>
                 <input type="submit" id="submit" name="submit" />
             </form>
         </section>
