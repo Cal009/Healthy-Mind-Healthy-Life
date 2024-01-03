@@ -57,11 +57,11 @@ h1{
 }
 
 main {
-    margin-top: 157px;
+    margin-top: 110px;
     flex: 1 0 auto;
 }
 
-.yoga-photos {
+#yoga-photos {
     width:370px;
     height: 230px;
     margin-left: 10px;
@@ -72,14 +72,26 @@ main {
     text-align: center;
     margin-top: 30px;
 }
+p {
+    justify-content: center;
+    font-size: 130%;
+}
+
 #outdoor-yoga {
     text-align: center;
     margin-top: 20px;
 }
+#outdoor-yoga-image {
+    width: 370px;
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
 
 h2 {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    font-size: 200%;
+    margin-top: 30px;
+    margin-bottom: 30px;
     text-align: center;
     background-color: antiquewhite;
 }
@@ -87,13 +99,14 @@ h2 {
 table {
     justify-content: center;
     width:100%;
+    font-size: 110%;
 }
 
 td {
     text-align: center;
 }
 
-.form {
+#form {
     text-align: center;
 }
 
@@ -104,5 +117,5 @@ form{
 }
 
 footer {
-    background-color: rgb(194, 237, 235);
+    background-color:antiquewhite;
 }

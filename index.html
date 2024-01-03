@@ -24,25 +24,34 @@
   </head>
   <body>
     <!-- Header -->
+<section id="start">
     <header>
         <a href="index.html">
             <h1 id="title">Healthy Mind & Healthy Life</h1>
         </a>
       <nav id="taskbar">
-        <button class="taskbar-button">About Us</button>
-        <button class="taskbar-button">Book Now</button>
+        <a href="#start">
+             <button class="taskbar-button">About Us</button>
+        </a>
+        <a href="#form">
+            <button class="taskbar-button">Book Now</button>
+        </a>
+        <a>
         <button class="taskbar-button">Contact Us</button>
+        </a>
       </nav>
     </header>
+</section>
     <!-- Main -->
     <main>
-        <img class="yoga-photos" src="assets/images/yoga-class.jpg" alt="yoga class">
+        <img id="yoga-photos" src="assets/images/yoga-class.jpg" alt="yoga class">
             <!-- About Us -->
             <section class="main-text">
                  <h2>About Us</h2>
                  <p>Here at Healthy Mind and Healthy life, we have created a calm and tranquil environment
                  for all ages to come and enjoy a friendly yoga class or simply hire the studio for a period of up to 60 minutes.
                  All of our classes are suitable for beginners and offer a friendly community to get started.
+                <br>
                 <br>We proivde all our new members with a starter yoga mat, all you need to do is sign up below.
                  </p>
             </section>     
@@ -50,8 +59,10 @@
             <p>Join us at our local park every Sunday when we have our weekly class for an opportunity to connect with nature.
             </p>
             </section>
-        <img class="yoga-photos" src="assets/images/outdoor-yoga.jpg" alt="Yoga class in a park">
-        <h2>Opening Hours</h2>
+        <img id="outdoor-yoga-image" src="assets/images/outdoor-yoga.jpg" alt="Yoga class in a park">
+        <!-- Opening times table -->
+    <section id="opening-hours">   
+    <h2>Opening Hours</h2>
         <table>
             <tr>
                 <th>Day</th>
@@ -70,7 +81,9 @@
                 <td>10:00 - 14:00</td>
             </tr>
         </table>
-        <section class="form">
+    </section>
+        <!-- Sign up form -->
+        <section id="form">
             <h2>Sign Up Now</h2>
             <p>Join our club for only £10 per month</p>
             <p>Enter your details below and we will contact you to arrange your first class.</p>
@@ -84,6 +97,6 @@
         </section>
     </main>
     <!-- Footer -->
-    <footer>Footer</footer>
+    <footer>Contct us Below</footer>
   </body>
 </html>
