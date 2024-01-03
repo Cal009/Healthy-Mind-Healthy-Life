@@ -183,6 +183,12 @@ td {
             height: 30px;
             font-size: large;
         }
+    
+    table {
+        font-size: 150%;
+    }
 
-
+    #social-media{
+        font-size: 190%;
+    }
 }
