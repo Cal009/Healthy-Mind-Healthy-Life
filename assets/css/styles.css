@@ -180,6 +180,7 @@ div.scroll-container img {
     width: 90%;
     height: 90%;
 }
+
 /* Media queries for tablets and larger 768px and up */
 @media screen and (min-width: 768px){
     .taskbar-button {
