@@ -226,10 +226,17 @@ div.scroll-container img {
 
 /* media query for laptop screens */
 @media screen and (min-width: 992px){
-    #outdoor-yoga-image {
-        display: block;
-        float: right;
-        width: 50%;
-        height: 30%;
+
+        #outdoor-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            align-items: center;
+            column-gap: 5px;
+        }
+
+        #outdoor-yoga-image {
+            width: 100%;
+            height: 100%;
+
         }
 }
