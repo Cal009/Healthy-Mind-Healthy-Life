@@ -11,7 +11,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 
 ## Features
 
-## Favicon: 
+### Favicon: 
 
 * The icon for my website was created to give the website a cosy feel whilst keeping it simple.
 * The background of the icon matches similarly to the main colour of the website.
@@ -25,9 +25,16 @@ The website is fully respsonive and was designed using HTML and CSS.
 * It is in a font and colour that is easily readable and maintains the same font and colour through the website.
 ![Navigation Bar](assets/images/header-screenshot.png)
 
-## About Us
+### About Us
 
 * About us details the main objectve of the company, offering a beginner friendly service to new comers to yoga.
 * The design was simple and short, this prevents an overload of information. This will make it more appealing to a beginner not knowing much about the hobby.
 * The text is readable and has a clear contrast with the background, the colours chosen are soft and pleasing to the eye, fitting in with the company's goals.
+* A large image centered draws the eye staright there,then followed by the text which catches the viewers attention.
 ![About us](assets/images/about-us-screenshot.png)
+
+### Outdoor Yoga
+
+* I created this section as a small incite into what we can offer, and that it's out of the ordinary. It makes it stand out against other competitors.
+* I have also included a large image showcasing what it looks like and how many people join in. The aim of this is to prevent the thought of being the only one there.
+![Outdoor Yoga](assets/images/outdoor-screenshot.png)
