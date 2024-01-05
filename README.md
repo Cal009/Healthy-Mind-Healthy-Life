@@ -46,3 +46,14 @@ The website is fully respsonive and was designed using HTML and CSS.
 * The sign up form will not allow the user to submit without filling out all the fields and correctly inputting a valid email.
 ![Sign up Form](assets/images/signup-screenshot.png)
 
+### Opening Hours:
+
+* The Opening hours table was made to allow the user to easily identify when the classes are available. This can make for a better user experience as they can plan around their schedule.
+* It also includes the time and day of the Nature park yoga incase that is their main interest.
+![Opening Hours Table](assets/images/opening-hours-screenshot.png)
+
+### Contact us:
+
+* I kept the design the same as the rest of the website, maintaining the same colours and font.
+* I added in some social media links which allow for direct links to Facebook, Instagram and X-twitter. These open in a new tab allowing the main website to remain open.
+![Contact us links](assets/images/contact-us-screenshot.png)
