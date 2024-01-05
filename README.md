@@ -30,7 +30,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 * About us details the main objectve of the company, offering a beginner friendly service to new comers to yoga.
 * The design was simple and short, this prevents an overload of information. This will make it more appealing to a beginner not knowing much about the hobby.
 * The text is readable and has a clear contrast with the background, the colours chosen are soft and pleasing to the eye, fitting in with the company's goals.
-* A large image centered draws the eye staright there,then followed by the text which catches the viewers attention.
+* A large image centered draws the eye straight there, then followed by the text which catches the viewers attention.
 ![About us](assets/images/about-us-screenshot.png)
 
 ### Outdoor Yoga
@@ -63,11 +63,11 @@ The website is fully respsonive and was designed using HTML and CSS.
 * I tested to make sure this page works well on both Chrome and Safari
 * I ensured the page was responsive, looking good on all screen sizes using the dev tools.
 * I tested to make sure all the navigation buttons work as intended.
-* I ensured that the form works as intended, being unabee to submit without correct details.
+* I ensured that the form works as intended, being unable to submit without correct details.
 
 ## Validator Testing
 
-* After running my code through the W3C validator it came up with one error, after researching the error it was due to a missing start tag, or the programme being unable to find the start tag. After checking the code myself i could see the start tag for the elemnt in the rgght spot as specified by the website when I copied the code. The code was from google fonts.
+* After running my code through the W3C validator it came up with one error, after researching the error it was due to a missing start tag, or the programme being unable to find the start tag. After checking the code myself I could see the start tag for the element in the right spot as specified by the website when I copied the code. The code was from google fonts.
 ![Validator Error](assets/images/w3c-error.png)
 * I had no errors when passing it through the official (Jigsaw) validator
 * I confirmed that the colors and fonts are easy to read and accessible. I ran this through the lighthouse dev tool.
@@ -89,7 +89,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 * The site was deployed to Github Pages. The process on doing this is as follows:
 * In the Github repository, navigate to the settings tab.
 * From the source-section drop-down menu, select the Master Branch.
-* This then creates a live link which can be found here [website](https://cal009.github.io/healthy-mind-healthy-life/)
+* This then creates a live link which can be found here: [website](https://cal009.github.io/healthy-mind-healthy-life/)
 
 ## Credit
 
@@ -99,3 +99,4 @@ The website is fully respsonive and was designed using HTML and CSS.
 * I used <https://fontawesome.com/> to get icons for social media links in my footer.
 * I then used the code institute form dump as a reply for the completion of the form.
 * Images used were from <https://www.pexels.com/>
+* https://fonts.google.com/ was used to thange the fonts within my page.
