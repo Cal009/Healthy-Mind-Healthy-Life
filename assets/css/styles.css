@@ -43,7 +43,7 @@ h1{
 }
 
 ul {
-    display: block;
+    display: flex;
     text-align: center;
 }
 
@@ -222,6 +222,10 @@ div.scroll-container img {
     #bottom-h4 {
         margin: auto;
     }
+    
+    ul {
+        display: block;
+    }
 }
 
 /* media query for laptop screens */
@@ -250,5 +254,8 @@ div.scroll-container img {
         padding: 10px;
         width: 90%;
         height: 90%;
+    }
+    ul {
+        display: block;
     }
 }
