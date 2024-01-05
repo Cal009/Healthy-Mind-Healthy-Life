@@ -25,7 +25,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 * It is in a font and colour that is easily readable and maintains the same font and colour through the website.
 ![Navigation Bar](assets/images/header-screenshot.png)
 
-### About Us
+### About Us:
 
 * About us details the main objectve of the company, offering a beginner friendly service to new comers to yoga.
 * The design was simple and short, this prevents an overload of information. This will make it more appealing to a beginner not knowing much about the hobby.
@@ -33,8 +33,16 @@ The website is fully respsonive and was designed using HTML and CSS.
 * A large image centered draws the eye staright there,then followed by the text which catches the viewers attention.
 ![About us](assets/images/about-us-screenshot.png)
 
-### Outdoor Yoga
+### Outdoor Yoga:
 
 * I created this section as a small incite into what we can offer, and that it's out of the ordinary. It makes it stand out against other competitors.
 * I have also included a large image showcasing what it looks like and how many people join in. The aim of this is to prevent the thought of being the only one there.
 ![Outdoor Yoga](assets/images/outdoor-screenshot.png)
+
+### Sign Up Form:
+
+* This section was kept simple to avoid confusion when trying to sign up, clearing stating the cost.
+* Furthermore the form will allow for someone to contact you to arrange the appointment and answer any questions you might have.
+* The sign up form will not allow the user to submit without filling out all the fields and correctly inputting a valid email.
+![Sign up Form](assets/images/signup-screenshot.png)
+
