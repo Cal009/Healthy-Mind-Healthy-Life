@@ -7,4 +7,4 @@ The website is fully respsonive and was designed using HTML and CSS.
 
 [View the live site](https://cal009.github.io/healthy-mind-healthy-life/)
 
-![website mock-up] (assets/images/read.me-showcase.png)
+![website mock-up](assets/images/read.me-showcase.png)
