@@ -91,7 +91,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 * From the source-section drop-down menu, select the Master Branch.
 * This then creates a live link which can be found here: [website](https://cal009.github.io/healthy-mind-healthy-life/)
 
-## Things to add in the futur
+## Things to add in the future
 
 * Add in more photos to the gallery
 * Create an online tutorial via a video so users can learn from the comfort of their home.
