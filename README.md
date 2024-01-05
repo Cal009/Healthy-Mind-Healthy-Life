@@ -57,3 +57,30 @@ The website is fully respsonive and was designed using HTML and CSS.
 * I kept the design the same as the rest of the website, maintaining the same colours and font.
 * I added in some social media links which allow for direct links to Facebook, Instagram and X-twitter. These open in a new tab allowing the main website to remain open.
 ![Contact us links](assets/images/contact-us-screenshot.png)
+
+## Testing
+
+* I tested to make sure this page works well on both Chrome and Safari
+* I ensured the page was responsive, looking good on all screen sizes using the dev tools.
+* I tested to make sure all the navigation buttons work as intended.
+* I ensured that the form works as intended, being unabee to submit without correct details.
+
+## Validator Testing
+
+* After running my code through the W3C validator it came up with one error, after researching the error it was due to a missing start tag, or the programme being unable to find the start tag. After checking the code myself i could see the start tag for the elemnt in the rgght spot as specified by the website when I copied the code. The code was from google fonts.
+![Validator Error](assets/images/w3c-error.png)
+* I had no errors when passing it through the official (Jigsaw) validator
+* I confirmed that the colors and fonts are easy to read and accessible. I ran this through the lighthouse dev tool.
+![Lighthouse Validator](assets/images/lighthouse-score.png)
+
+## Bugs
+
+### Solved Bugs:
+
+* Had an issue with my navigation bar when testing through W3C stating that I couldn't have an 'a href' inside of a button. As a result I changed the section to a list rather than a button and this solved the issue.
+
+### Unsolved Bugs:
+
+* I have an error code on the W3C validator that states it has a stray start tag however the link was copied directly from google fonts.
+![Validator Error](assets/images/w3c-error.png)
+
