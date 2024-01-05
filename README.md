@@ -90,3 +90,12 @@ The website is fully respsonive and was designed using HTML and CSS.
 * In the Github repository, navigate to the settings tab.
 * From the source-section drop-down menu, select the Master Branch.
 * This then creates a live link which can be found here [website](https://cal009.github.io/healthy-mind-healthy-life/)
+
+## Credit
+
+* I have used <https://favicon.io/favicon-generator/> in order to create my own icon for my website.
+* <https://www.w3schools.com/> was the source for helping me with all my code whenever I had an idea but needed a refresher on the code.
+* I used <https://www.glo.com/?adjust_referrer=adjust_reftag%3DcB70IBCrdzCCs&gad_source=1> for assisstance on the task bar buttons, getting the correct sizes and shape.
+* I used <https://fontawesome.com/> to get icons for social media links in my footer.
+* I then used the code institute form dump as a reply for the completion of the form.
+* Images used were from <https://www.pexels.com/>
