@@ -25,3 +25,9 @@ The website is fully respsonive and was designed using HTML and CSS.
 * It is in a font and colour that is easily readable and maintains the same font and colour through the website.
 ![Navigation Bar](assets/images/header-screenshot.png)
 
+## About Us
+
+* About us details the main objectve of the company, offering a beginner friendly service to new comers to yoga.
+* The design was simple and short, this prevents an overload of information. This will make it more appealing to a beginner not knowing much about the hobby.
+* The text is readable and has a clear contrast with the background, the colours chosen are soft and pleasing to the eye, fitting in with the company's goals.
+![About us](assets/images/about-us-screenshot.png)
