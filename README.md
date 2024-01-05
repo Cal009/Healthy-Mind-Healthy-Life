@@ -35,7 +35,7 @@ The website is fully respsonive and was designed using HTML and CSS.
 
 ### Outdoor Yoga:
 
-* I created this section as a small incite into what we can offer, and that it's out of the ordinary. It makes it stand out against other competitors.
+* I created this section as a small insight into what we can offer, and that it's out of the ordinary. It makes it stand out against other competitors.
 * I have also included a large image showcasing what it looks like and how many people join in. The aim of this is to prevent the thought of being the only one there.
 ![Outdoor Yoga](assets/images/outdoor-screenshot.png)
 
